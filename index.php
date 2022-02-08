@@ -21,10 +21,10 @@
 
 <tr>
         
-    <td><font color="white" size="25"><center><i><u> "link" </u></i></center></font></td>
-    <td><font color="white" size="25"><center><i><u> "link" </u></i></center></font></td>
-    <td><font color="white" size="25"><center><i><u> "link" </u></i></center></font></td>
-
+    <td><font size="25"><center><i><u><a href="math.html"> "link"</a></u></i></center></font></td>
+    <td><font size="25"><center><i><u><a href="cae.html"> "link" </a></u></i></center></font></td>
+    <td><font size="25"><center><i><u><a href="cle.html"> "link" </a></u></i></center></font></td>
+  
 </tr>
 
 </table>
