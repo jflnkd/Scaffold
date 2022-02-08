@@ -23,7 +23,7 @@
         
   <td><font size="25"><center><i><u><a href="math.php"> "link"</a></u></i></center></font></td>
     <td><font size="25"><center><i><u><a href="Index.php"> "link" </a></u></i></center></font></td>
-    <td><font size="25"><center><i><u><a href="cle"> "link" </a></u></i></center></font></td>
+    <td><font size="25"><center><i><u><a href="cle.php"> "link" </a></u></i></center></font></td>
 
 </tr>
 
