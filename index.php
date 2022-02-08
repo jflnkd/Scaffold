@@ -21,9 +21,9 @@
 
 <tr>
         
-  <td><font size="25"><center><i><u><a href="file:///C:/Users/alliana/Desktop/math.html"> "link"</a></u></i></center></font></td>
-    <td><font size="25"><center><i><u><a href="file:///C:/Users/alliana/Desktop/cae.html"> "link" </a></u></i></center></font></td>
-    <td><font size="25"><center><i><u><a href="file:///C:/Users/alliana/Desktop/cle.html"> "link" </a></u></i></center></font></td>
+  <td><font size="25"><center><i><u><a href="math.php"> "link"</a></u></i></center></font></td>
+    <td><font size="25"><center><i><u><a href="Index.php"> "link" </a></u></i></center></font></td>
+    <td><font size="25"><center><i><u><a href="cle"> "link" </a></u></i></center></font></td>
 
 </tr>
 
